@@ -1,6 +1,6 @@
 # Snakes Cafe Project
 
-PR:
+PR: https://github.com/moayadalhaj/snakes-cafe/pull/1
 
 Snakes cafe program that allows you to order form whatever available on the menu
 
